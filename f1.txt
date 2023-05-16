@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 creating first file : changes in branch, second change, third change, change done from main branch
+=======
+creating first file : changes in branch, second change, third change, change done from new_branch_2
+>>>>>>> new_branch_2
