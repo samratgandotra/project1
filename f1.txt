@@ -4,3 +4,4 @@ creating first file : changes in branch, second change, third change, change don
 creating first file : changes in branch, second change, third change, change done from new_branch_2
 >>>>>>> new_branch_2
 local repository changes
+another local change
